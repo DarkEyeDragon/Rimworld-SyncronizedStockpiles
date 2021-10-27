@@ -1,2 +1,2 @@
-# Rimworld-BulkBillCopy
-Copy your bills in one go
+# Rimworld-SyncronizedStockPiles
+Easily syncronize stockpile settings between each other
